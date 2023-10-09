@@ -15,5 +15,7 @@ This uses a CD4060 as an oscillator, bit counter, and character counter.
 A 28C64 EEPROM is used to generate the data stream
 A 74HC595 is used to drive the segments of the display. The bit clock and output latch come from the CD4060.
 
+![](p1290666.jpg)
 
+![](595Engine.png)
 
